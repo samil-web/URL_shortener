@@ -1,0 +1,15 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.margin-side{
+    display: flex;
+    justify-content: space-between;
+    margin: 2rem 5rem;
+}
+
+.margin-hero{
+    display: flex;
+    justify-content: space-between;
+    margin: 9rem 0rem 0rem 9rem;
+}
